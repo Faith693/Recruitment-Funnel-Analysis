@@ -21,7 +21,7 @@ The dataset includes:
 ---
 
 ## 📊 Dashboard
-![Dashboard](PASTE-YOUR-IMAGE-LINK-HERE)
+![Dashboard]([PASTE-YOUR-IMAGE-LINK-HERE](https://github.com/Faith693/Recruitment-Funnel-Analysis/blob/main/Dashboard%20for%20Mckenzie%20Carter%20Consulting.png))
 
 ---
 
